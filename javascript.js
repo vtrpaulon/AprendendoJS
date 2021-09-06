@@ -1,0 +1,3 @@
+function clicado(){
+    alert("Cadastrado!");
+}
